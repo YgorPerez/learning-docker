@@ -1,4 +1,4 @@
 # learning-docker
 Immersing myself more into docker
-Docker for nodejs, with SQLlite and javascript for a todo app
+Docker for nodejs with SQLlite
 it has a docker file and docker composer
